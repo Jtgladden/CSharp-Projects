@@ -1,0 +1,9 @@
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\bin\Debug\CSVtoDataSet.exe.config
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\bin\Debug\CSVtoDataSet.exe
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\bin\Debug\CSVtoDataSet.pdb
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\obj\Debug\CSVtoDataSet.csprojResolveAssemblyReference.cache
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\obj\Debug\CSVtoDataSet.Form1.resources
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\obj\Debug\CSVtoDataSet.Properties.Resources.resources
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\obj\Debug\CSVtoDataSet.csproj.GenerateResource.Cache
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\obj\Debug\CSVtoDataSet.exe
+E:\Dev\c#\CSVtoDataSet\CSVtoDataSet\obj\Debug\CSVtoDataSet.pdb

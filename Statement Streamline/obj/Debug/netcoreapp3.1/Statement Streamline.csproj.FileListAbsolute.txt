@@ -1,0 +1,16 @@
+D:\Dev\c#\Statement Streamline\bin\Debug\netcoreapp3.1\Statement Streamline.exe
+D:\Dev\c#\Statement Streamline\bin\Debug\netcoreapp3.1\Statement Streamline.deps.json
+D:\Dev\c#\Statement Streamline\bin\Debug\netcoreapp3.1\Statement Streamline.runtimeconfig.json
+D:\Dev\c#\Statement Streamline\bin\Debug\netcoreapp3.1\Statement Streamline.runtimeconfig.dev.json
+D:\Dev\c#\Statement Streamline\bin\Debug\netcoreapp3.1\Statement Streamline.dll
+D:\Dev\c#\Statement Streamline\bin\Debug\netcoreapp3.1\Statement Streamline.pdb
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.csproj.AssemblyReference.cache
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement_Streamline.Form1.resources
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.csproj.GenerateResource.cache
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.AssemblyInfoInputs.cache
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.AssemblyInfo.cs
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.csproj.CoreCompileInputs.cache
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.dll
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.pdb
+D:\Dev\c#\Statement Streamline\obj\Debug\netcoreapp3.1\Statement Streamline.genruntimeconfig.cache

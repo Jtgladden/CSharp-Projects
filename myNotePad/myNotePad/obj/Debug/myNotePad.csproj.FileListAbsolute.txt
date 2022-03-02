@@ -1,0 +1,27 @@
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\myNotePad.exe.config
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\myNotePad.exe
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.Form1.resources
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.Properties.Resources.resources
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.csproj.GenerateResource.Cache
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.exe
+c:\users\sdball28\documents\visual studio 2015\Projects\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+E:\myNotePad\myNotePad\bin\Debug\myNotePad.exe.config
+E:\myNotePad\myNotePad\obj\Debug\myNotePad.exe
+E:\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+E:\myNotePad\myNotePad\bin\Debug\myNotePad.exe
+E:\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+E:\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+E:\myNotePad\myNotePad\obj\Debug\myNotePad.Form1.resources
+E:\myNotePad\myNotePad\obj\Debug\myNotePad.Properties.Resources.resources
+E:\myNotePad\myNotePad\obj\Debug\myNotePad.csproj.GenerateResource.Cache
+E:\Dev\c#\myNotePad\myNotePad\bin\Debug\myNotePad.exe.config
+E:\Dev\c#\myNotePad\myNotePad\obj\Debug\myNotePad.exe
+E:\Dev\c#\myNotePad\myNotePad\obj\Debug\myNotePad.pdb
+E:\Dev\c#\myNotePad\myNotePad\bin\Debug\myNotePad.exe
+E:\Dev\c#\myNotePad\myNotePad\bin\Debug\myNotePad.pdb
+E:\Dev\c#\myNotePad\myNotePad\obj\Debug\myNotePad.csprojResolveAssemblyReference.cache
+E:\Dev\c#\myNotePad\myNotePad\obj\Debug\myNotePad.Form1.resources
+E:\Dev\c#\myNotePad\myNotePad\obj\Debug\myNotePad.Properties.Resources.resources
+E:\Dev\c#\myNotePad\myNotePad\obj\Debug\myNotePad.csproj.GenerateResource.Cache

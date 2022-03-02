@@ -1,0 +1,9 @@
+E:\Dev\c#\csvReader\csvReader\bin\Debug\csvReader.exe.config
+E:\Dev\c#\csvReader\csvReader\bin\Debug\csvReader.exe
+E:\Dev\c#\csvReader\csvReader\bin\Debug\csvReader.pdb
+E:\Dev\c#\csvReader\csvReader\obj\Debug\csvReader.csprojResolveAssemblyReference.cache
+E:\Dev\c#\csvReader\csvReader\obj\Debug\csvReader.Form1.resources
+E:\Dev\c#\csvReader\csvReader\obj\Debug\csvReader.Properties.Resources.resources
+E:\Dev\c#\csvReader\csvReader\obj\Debug\csvReader.csproj.GenerateResource.Cache
+E:\Dev\c#\csvReader\csvReader\obj\Debug\csvReader.exe
+E:\Dev\c#\csvReader\csvReader\obj\Debug\csvReader.pdb
