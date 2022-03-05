@@ -105,14 +105,15 @@ namespace Statement_Streamline
         private void compileReport()
         {
             List<purchase> purchases = new List<purchase>();
-            purchase item = new purchase();
             List<report> reports = new List<report>();
 
             for (int i = 0; i < checkedListBox1.Items.Count; i++)
             {
+                purchase item = new purchase();
                 item.code = returnCode((checkedListBox1.Items[i] as MyListBoxItem).Value);
                 item.cost = toDouble((checkedListBox1.Items[i] as MyListBoxItem).Value);
-                purchases.Add(item);
+                purchases.Insert(i, item);
+                item = null;
             }
 
             
@@ -130,18 +131,19 @@ namespace Statement_Streamline
                 if (added != true)
                 {
                     reports.Add(new report(p.code, p.cost));
-                    added = false;
                 }
+                added = false;
             }
 
             foreach (report r in reports)
             {
-                Console.WriteLine(r.code + "=" + r.totalCost.ToString());
+                Console.WriteLine(r.code + "=" + r.totalCost.ToString("C3"));
             }
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
+            Console.Clear();
             compileReport();
         }
     }
